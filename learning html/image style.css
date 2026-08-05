@@ -1,0 +1,16 @@
+.centered-image {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; width: 20%}
+      
+      
+.come{
+            content: icon url("C:\Users\TECH\Desktop\learning html\download.jpg");
+            display: inline;
+            margin-left: auto;
+            margin-right: auto;
+            color: blue;}
+
+      
+
+      
